@@ -1,0 +1,90 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Sacramento", cursive;
+    font-weight: 400;
+    font-style: normal;
+      
+
+}
+
+.container{
+    position: relative;
+    text-align: center;
+    padding-top: 100px;
+    background-color: #eaf9f5;
+    color: rgba(0, 255, 255, 0.568);
+}
+
+p{
+    font-family: serif;
+}
+
+
+.pro{
+    text-decoration: underline;
+}
+
+.cloud1{
+    position: absolute;
+    margin-left: 500px;
+}
+
+.cloud2{
+    display: flex;
+    position: absolute;
+    margin-left: 200px;
+}
+
+.name{
+    font-size: 500%; 
+    font-family: sacramento;
+}
+
+.prog{
+    font-size: xx-large;
+}
+
+main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+    height: fit-content;
+    width: 600px;
+    display:inline;
+   padding-top: 600px; 
+
+}
+
+hr{
+    border: 5px solid rgb(140, 140, 156);
+    width: 50%;
+}
+
+footer{
+    display:flex;
+
+}
+#img{
+    width: 300px;
+    padding-left: 400px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+}
+
+.web-dev{
+    display: flex;
+    margin-top: 100px;
+    /* float: left; */
+    /* text-align: center; */
+    /* margin:0; */
+    padding: 0;
+    
+}
+
